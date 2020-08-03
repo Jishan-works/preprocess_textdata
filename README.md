@@ -2,7 +2,7 @@
 
 ## Installation
 
-`pip install git+httpt://github.com/laxmimerit/preprocess_textdata.git`
+`pip install git+ssh://git@github.com/Jishan-works/preprocess_textdata.git`
 
 Uninstall
 
